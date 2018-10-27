@@ -1,0 +1,9 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Format\Telephone Format\bin\Debug\Telephone Format.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Format\Telephone Format\bin\Debug\Telephone Format.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Format\Telephone Format\obj\x86\Debug\Telephone Format.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Format\Telephone Format\obj\x86\Debug\Telephone_Format.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Format\Telephone Format\obj\x86\Debug\Telephone_Format.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Format\Telephone Format\obj\x86\Debug\Telephone Format.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Format\Telephone Format\obj\x86\Debug\Telephone Format.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Format\Telephone Format\obj\x86\Debug\Telephone Format.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Format\Telephone Format\obj\x86\Debug\Telephone Format.pdb

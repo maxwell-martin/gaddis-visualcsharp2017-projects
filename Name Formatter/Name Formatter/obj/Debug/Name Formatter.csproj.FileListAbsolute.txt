@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Name Formatter\Name Formatter\bin\Debug\Name Formatter.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Name Formatter\Name Formatter\bin\Debug\Name Formatter.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Name Formatter\Name Formatter\bin\Debug\Name Formatter.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Name Formatter\Name Formatter\obj\Debug\Name Formatter.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Name Formatter\Name Formatter\obj\Debug\Name_Formatter.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Name Formatter\Name Formatter\obj\Debug\Name_Formatter.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Name Formatter\Name Formatter\obj\Debug\Name Formatter.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Name Formatter\Name Formatter\obj\Debug\Name Formatter.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Name Formatter\Name Formatter\obj\Debug\Name Formatter.pdb

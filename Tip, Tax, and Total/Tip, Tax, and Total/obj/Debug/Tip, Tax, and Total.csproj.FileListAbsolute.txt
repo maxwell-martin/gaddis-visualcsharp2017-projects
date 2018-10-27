@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tip, Tax, and Total\Tip, Tax, and Total\obj\Debug\Tip, Tax, and Total.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tip, Tax, and Total\Tip, Tax, and Total\obj\Debug\Tip__Tax__and_Total.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tip, Tax, and Total\Tip, Tax, and Total\obj\Debug\Tip, Tax, and Total.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tip, Tax, and Total\Tip, Tax, and Total\obj\Debug\TipTaxTotal.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tip, Tax, and Total\Tip, Tax, and Total\bin\Debug\TipTaxTotal.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tip, Tax, and Total\Tip, Tax, and Total\bin\Debug\TipTaxTotal.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tip, Tax, and Total\Tip, Tax, and Total\bin\Debug\TipTaxTotal.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tip, Tax, and Total\Tip, Tax, and Total\obj\Debug\TipTaxTotal.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tip, Tax, and Total\Tip, Tax, and Total\obj\Debug\TipTaxTotal.pdb

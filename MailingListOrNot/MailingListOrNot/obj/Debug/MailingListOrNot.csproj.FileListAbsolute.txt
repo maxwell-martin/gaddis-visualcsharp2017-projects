@@ -1,0 +1,10 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\MailingListOrNot\MailingListOrNot\bin\Debug\MailingListOrNot.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\MailingListOrNot\MailingListOrNot\bin\Debug\MailingListOrNot.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\MailingListOrNot\MailingListOrNot\bin\Debug\MailingListOrNot.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\MailingListOrNot\MailingListOrNot\obj\Debug\MailingListOrNot.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\MailingListOrNot\MailingListOrNot\obj\Debug\MailingListOrNot.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\MailingListOrNot\MailingListOrNot\obj\Debug\MailingListOrNot.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\MailingListOrNot\MailingListOrNot\obj\Debug\MailingListOrNot.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\MailingListOrNot\MailingListOrNot\obj\Debug\MailingListOrNot.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\MailingListOrNot\MailingListOrNot\obj\Debug\MailingListOrNot.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\MailingListOrNot\MailingListOrNot\obj\Debug\MailingListOrNot.pdb

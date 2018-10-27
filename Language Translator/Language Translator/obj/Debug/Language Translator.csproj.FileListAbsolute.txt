@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Language Translator\Language Translator\bin\Debug\Language Translator.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Language Translator\Language Translator\obj\Debug\Language_Translator.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Language Translator\Language Translator\obj\Debug\Language_Translator.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Language Translator\Language Translator\obj\Debug\Language Translator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Language Translator\Language Translator\obj\Debug\Language Translator.pdb

@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hello World\Hello World\bin\Debug\Hello World.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hello World\Hello World\bin\Debug\Hello World.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hello World\Hello World\bin\Debug\Hello World.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hello World\Hello World\obj\Debug\Hello World.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hello World\Hello World\obj\Debug\Hello World.pdb

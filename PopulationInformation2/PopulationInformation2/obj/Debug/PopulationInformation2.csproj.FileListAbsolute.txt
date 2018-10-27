@@ -1,0 +1,12 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\PopulationInformation2\PopulationInformation2\bin\Debug\PopulationDB.mdf
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\PopulationInformation2\PopulationInformation2\bin\Debug\PopulationDB_log.ldf
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\PopulationInformation2\PopulationInformation2\bin\Debug\PopulationInformation2.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\PopulationInformation2\PopulationInformation2\bin\Debug\PopulationInformation2.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\PopulationInformation2\PopulationInformation2\bin\Debug\PopulationInformation2.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\PopulationInformation2\PopulationInformation2\obj\Debug\PopulationInformation2.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\PopulationInformation2\PopulationInformation2\obj\Debug\PopulationInformation2.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\PopulationInformation2\PopulationInformation2\obj\Debug\PopulationInformation2.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\PopulationInformation2\PopulationInformation2\obj\Debug\PopulationInformation2.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\PopulationInformation2\PopulationInformation2\obj\Debug\PopulationInformation2.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\PopulationInformation2\PopulationInformation2\obj\Debug\PopulationInformation2.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\PopulationInformation2\PopulationInformation2\obj\Debug\PopulationInformation2.pdb

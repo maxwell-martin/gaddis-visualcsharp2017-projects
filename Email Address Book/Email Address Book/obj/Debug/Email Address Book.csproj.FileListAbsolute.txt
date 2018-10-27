@@ -1,0 +1,11 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Email Address Book\Email Address Book\bin\Debug\Email Address Book.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Email Address Book\Email Address Book\bin\Debug\Email Address Book.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Email Address Book\Email Address Book\bin\Debug\Email Address Book.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Email Address Book\Email Address Book\obj\Debug\Email Address Book.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Email Address Book\Email Address Book\obj\Debug\Email_Address_Book.MainForm.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Email Address Book\Email Address Book\obj\Debug\Email_Address_Book.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Email Address Book\Email Address Book\obj\Debug\Email Address Book.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Email Address Book\Email Address Book\obj\Debug\Email Address Book.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Email Address Book\Email Address Book\obj\Debug\Email Address Book.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Email Address Book\Email Address Book\obj\Debug\Email Address Book.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Email Address Book\Email Address Book\obj\Debug\Email_Address_Book.InformationForm.resources

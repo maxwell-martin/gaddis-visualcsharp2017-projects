@@ -1,0 +1,17 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.pdb

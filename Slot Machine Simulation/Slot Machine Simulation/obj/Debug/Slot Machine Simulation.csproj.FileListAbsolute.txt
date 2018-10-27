@@ -1,0 +1,9 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Slot Machine Simulation\Slot Machine Simulation\bin\Debug\Slot Machine Simulation.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Slot Machine Simulation\Slot Machine Simulation\bin\Debug\Slot Machine Simulation.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Slot Machine Simulation\Slot Machine Simulation\bin\Debug\Slot Machine Simulation.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\Slot_Machine_Simulation.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\Slot_Machine_Simulation.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\Slot Machine Simulation.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\Slot Machine Simulation.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\Slot Machine Simulation.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\Slot Machine Simulation.pdb

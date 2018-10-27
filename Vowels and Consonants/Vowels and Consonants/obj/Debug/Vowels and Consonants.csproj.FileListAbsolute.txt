@@ -1,0 +1,10 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Vowels and Consonants\Vowels and Consonants\bin\Debug\Vowels and Consonants.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Vowels and Consonants\Vowels and Consonants\bin\Debug\Vowels and Consonants.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Vowels and Consonants\Vowels and Consonants\bin\Debug\Vowels and Consonants.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels and Consonants.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels_and_Consonants.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels_and_Consonants.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels and Consonants.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels and Consonants.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels and Consonants.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels and Consonants.pdb

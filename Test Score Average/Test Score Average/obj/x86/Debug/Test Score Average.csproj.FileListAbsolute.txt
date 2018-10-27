@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score Average\Test Score Average\obj\x86\Debug\Test_Score_Average.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score Average\Test Score Average\obj\x86\Debug\Test_Score_Average.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score Average\Test Score Average\obj\x86\Debug\Test Score Average.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score Average\Test Score Average\obj\x86\Debug\Test Score Average.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score Average\Test Score Average\obj\x86\Debug\Test Score Average.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score Average\Test Score Average\obj\x86\Debug\Test Score Average.pdb

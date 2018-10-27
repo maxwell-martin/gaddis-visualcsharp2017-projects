@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change for a Dollar Game\Change for a Dollar Game\bin\Debug\Change for a Dollar Game.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change for a Dollar Game\Change for a Dollar Game\bin\Debug\Change for a Dollar Game.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change for a Dollar Game\Change for a Dollar Game\bin\Debug\Change for a Dollar Game.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change_for_a_Dollar_Game.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change_for_a_Dollar_Game.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.pdb

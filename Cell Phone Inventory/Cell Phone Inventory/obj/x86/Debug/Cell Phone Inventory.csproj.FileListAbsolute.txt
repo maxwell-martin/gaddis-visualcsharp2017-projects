@@ -1,0 +1,9 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csprojResolveAssemblyReference.cache

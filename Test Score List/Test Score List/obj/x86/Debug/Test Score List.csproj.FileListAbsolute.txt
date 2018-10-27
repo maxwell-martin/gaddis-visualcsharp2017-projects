@@ -1,0 +1,9 @@
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score List\Test Score List\bin\Debug\Test Score List.exe
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score List\Test Score List\bin\Debug\Test Score List.pdb
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Form1.resources
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Properties.Resources.resources
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.GenerateResource.Cache
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score List\Test Score List\obj\x86\Debug\Test Score List.exe
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Score List\Test Score List\obj\x86\Debug\Test Score List.pdb

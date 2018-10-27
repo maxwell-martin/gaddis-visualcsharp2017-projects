@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Identifier\Card Identifier\bin\Debug\Card Identifier.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Identifier\Card Identifier\obj\Debug\Card Identifier.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Identifier\Card Identifier\obj\Debug\Card Identifier.pdb

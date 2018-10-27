@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Book Club Points\Book Club Points\bin\Debug\Book Club Points.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Book Club Points\Book Club Points\bin\Debug\Book Club Points.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Book Club Points\Book Club Points\bin\Debug\Book Club Points.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Book Club Points\Book Club Points\obj\Debug\Book_Club_Points.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Book Club Points\Book Club Points\obj\Debug\Book_Club_Points.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Book Club Points\Book Club Points\obj\Debug\Book Club Points.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Book Club Points\Book Club Points\obj\Debug\Book Club Points.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csprojResolveAssemblyReference.cache

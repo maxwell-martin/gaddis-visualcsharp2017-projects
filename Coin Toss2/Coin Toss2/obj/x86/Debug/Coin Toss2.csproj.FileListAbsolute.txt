@@ -1,0 +1,17 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\A_PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap09\Coin Toss2\Coin Toss2\bin\Debug\Coin Toss2.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\A_PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap09\Coin Toss2\Coin Toss2\bin\Debug\Coin Toss2.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\A_PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap09\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin_Toss2.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\A_PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap09\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin_Toss2.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\A_PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap09\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin Toss2.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\A_PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap09\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin Toss2.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\A_PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap09\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin Toss2.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\A_PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap09\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin Toss2.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin_Toss2.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin_Toss2.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin Toss2.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin Toss2.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin Toss2.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin Toss2.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Coin Toss2\Coin Toss2\bin\Debug\Coin Toss2.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Coin Toss2\Coin Toss2\bin\Debug\Coin Toss2.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Coin Toss2\Coin Toss2\obj\x86\Debug\Coin Toss2.csprojResolveAssemblyReference.cache

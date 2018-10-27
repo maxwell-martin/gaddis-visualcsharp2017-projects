@@ -1,0 +1,19 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap09\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap09\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap09\Cell Phone Test\Cell Phone Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap09\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap09\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap09\Cell Phone Test\Cell Phone Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap09\Cell Phone Test\Cell Phone Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap09\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap09\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap09\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap09\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.exe
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.exe
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csprojResolveAssemblyReference.cache
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Form1.resources
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Properties.Resources.resources
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csproj.GenerateResource.Cache

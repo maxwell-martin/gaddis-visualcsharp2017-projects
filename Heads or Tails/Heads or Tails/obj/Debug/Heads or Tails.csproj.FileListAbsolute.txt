@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Heads or Tails\Heads or Tails\obj\Debug\Heads_or_Tails.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Heads or Tails\Heads or Tails\obj\Debug\Heads_or_Tails.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.pdb

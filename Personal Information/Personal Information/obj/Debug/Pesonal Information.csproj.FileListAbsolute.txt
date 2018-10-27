@@ -1,0 +1,20 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Pesonal Information\Pesonal Information\bin\Debug\Pesonal Information.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Pesonal Information\Pesonal Information\bin\Debug\Pesonal Information.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Pesonal Information\Pesonal Information\bin\Debug\Pesonal Information.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal Information.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal_Information.MainForm.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal_Information.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal Information.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal Information.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal Information.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal Information.pdb
+D:\Programming\Textbook-Coding-Projects\Pesonal Information\Pesonal Information\bin\Debug\Pesonal Information.exe.config
+D:\Programming\Textbook-Coding-Projects\Pesonal Information\Pesonal Information\bin\Debug\Pesonal Information.exe
+D:\Programming\Textbook-Coding-Projects\Pesonal Information\Pesonal Information\bin\Debug\Pesonal Information.pdb
+D:\Programming\Textbook-Coding-Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal Information.csprojResolveAssemblyReference.cache
+D:\Programming\Textbook-Coding-Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal_Information.MainForm.resources
+D:\Programming\Textbook-Coding-Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal_Information.Properties.Resources.resources
+D:\Programming\Textbook-Coding-Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal Information.csproj.GenerateResource.Cache
+D:\Programming\Textbook-Coding-Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal Information.csproj.CoreCompileInputs.cache
+D:\Programming\Textbook-Coding-Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal Information.exe
+D:\Programming\Textbook-Coding-Projects\Pesonal Information\Pesonal Information\obj\Debug\Pesonal Information.pdb

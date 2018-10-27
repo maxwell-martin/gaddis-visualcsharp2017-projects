@@ -1,0 +1,10 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sum of Numbers in a String\Sum of Numbers in a String\bin\Debug\Sum of Numbers in a String.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sum of Numbers in a String\Sum of Numbers in a String\bin\Debug\Sum of Numbers in a String.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sum of Numbers in a String\Sum of Numbers in a String\bin\Debug\Sum of Numbers in a String.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sum of Numbers in a String\Sum of Numbers in a String\obj\Debug\Sum of Numbers in a String.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sum of Numbers in a String\Sum of Numbers in a String\obj\Debug\Sum_of_Numbers_in_a_String.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sum of Numbers in a String\Sum of Numbers in a String\obj\Debug\Sum_of_Numbers_in_a_String.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sum of Numbers in a String\Sum of Numbers in a String\obj\Debug\Sum of Numbers in a String.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sum of Numbers in a String\Sum of Numbers in a String\obj\Debug\Sum of Numbers in a String.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sum of Numbers in a String\Sum of Numbers in a String\obj\Debug\Sum of Numbers in a String.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sum of Numbers in a String\Sum of Numbers in a String\obj\Debug\Sum of Numbers in a String.pdb

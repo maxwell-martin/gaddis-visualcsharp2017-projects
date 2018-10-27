@@ -1,0 +1,17 @@
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\bin\Debug\Cards.exe
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\bin\Debug\Cards.pdb
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\Cards.Form1.resources
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\Cards.Properties.Resources.resources
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\Cards.exe
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\Cards.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cards\Cards\bin\Debug\Cards.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cards\Cards\bin\Debug\Cards.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cards\Cards\obj\x86\Debug\Cards.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cards\Cards\obj\x86\Debug\Cards.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cards\Cards\obj\x86\Debug\Cards.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cards\Cards\obj\x86\Debug\Cards.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cards\Cards\obj\x86\Debug\Cards.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cards\Cards\obj\x86\Debug\Cards.pdb

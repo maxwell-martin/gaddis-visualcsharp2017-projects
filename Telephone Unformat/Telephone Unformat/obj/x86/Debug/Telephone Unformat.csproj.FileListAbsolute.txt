@@ -1,0 +1,8 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Unformat\Telephone Unformat\bin\Debug\Telephone Unformat.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Unformat\Telephone Unformat\bin\Debug\Telephone Unformat.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Unformat\Telephone Unformat\obj\x86\Debug\Telephone_Unformat.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Unformat\Telephone Unformat\obj\x86\Debug\Telephone_Unformat.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Unformat\Telephone Unformat\obj\x86\Debug\Telephone Unformat.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Unformat\Telephone Unformat\obj\x86\Debug\Telephone Unformat.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Unformat\Telephone Unformat\obj\x86\Debug\Telephone Unformat.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Telephone Unformat\Telephone Unformat\obj\x86\Debug\Telephone Unformat.pdb

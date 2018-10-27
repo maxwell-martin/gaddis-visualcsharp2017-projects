@@ -1,0 +1,13 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\bin\Debug\ProductDB.mdf
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\bin\Debug\ProductDB_log.ldf
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\bin\Debug\Multiform Products.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\bin\Debug\Multiform Products.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\bin\Debug\Multiform Products.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\obj\Debug\Multiform Products.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\obj\Debug\Multiform_Products.DetailsForm.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\obj\Debug\Multiform_Products.MainForm.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\obj\Debug\Multiform_Products.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\obj\Debug\Multiform Products.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\obj\Debug\Multiform Products.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\obj\Debug\Multiform Products.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Multiform Products\Multiform Products\obj\Debug\Multiform Products.pdb

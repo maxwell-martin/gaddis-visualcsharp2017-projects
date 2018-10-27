@@ -1,0 +1,10 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Most Frequent Character\Most Frequent Character\bin\Debug\Most Frequent Character.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Most Frequent Character\Most Frequent Character\bin\Debug\Most Frequent Character.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Most Frequent Character\Most Frequent Character\bin\Debug\Most Frequent Character.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Most Frequent Character\Most Frequent Character\obj\Debug\Most Frequent Character.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Most Frequent Character\Most Frequent Character\obj\Debug\Most_Frequent_Character.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Most Frequent Character\Most Frequent Character\obj\Debug\Most_Frequent_Character.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Most Frequent Character\Most Frequent Character\obj\Debug\Most Frequent Character.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Most Frequent Character\Most Frequent Character\obj\Debug\Most Frequent Character.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Most Frequent Character\Most Frequent Character\obj\Debug\Most Frequent Character.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Most Frequent Character\Most Frequent Character\obj\Debug\Most Frequent Character.pdb

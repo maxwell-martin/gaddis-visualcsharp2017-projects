@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Calorie Calculator\Calorie Calculator\bin\Debug\Calorie Calculator.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Calorie Calculator\Calorie Calculator\bin\Debug\Calorie Calculator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Calorie Calculator\Calorie Calculator\bin\Debug\Calorie Calculator.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie_Calculator.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie_Calculator.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie Calculator.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie Calculator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie Calculator.pdb

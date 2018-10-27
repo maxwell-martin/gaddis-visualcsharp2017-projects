@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb

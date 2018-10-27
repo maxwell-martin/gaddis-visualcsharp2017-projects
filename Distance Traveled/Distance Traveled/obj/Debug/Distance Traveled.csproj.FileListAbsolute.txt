@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Traveled\Distance Traveled\bin\Debug\Distance Traveled.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Traveled\Distance Traveled\bin\Debug\Distance Traveled.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Traveled\Distance Traveled\bin\Debug\Distance Traveled.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Traveled\Distance Traveled\obj\Debug\Distance Traveled.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Traveled\Distance Traveled\obj\Debug\Distance_Traveled.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Traveled\Distance Traveled\obj\Debug\Distance_Traveled.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Traveled\Distance Traveled\obj\Debug\Distance Traveled.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Traveled\Distance Traveled\obj\Debug\Distance Traveled.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Traveled\Distance Traveled\obj\Debug\Distance Traveled.pdb

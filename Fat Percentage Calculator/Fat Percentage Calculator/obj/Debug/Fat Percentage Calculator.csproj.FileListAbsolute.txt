@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat_Percentage_Calculator.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat_Percentage_Calculator.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.pdb

@@ -1,0 +1,20 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\bin\Debug\Word Counter.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\bin\Debug\Word Counter.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\bin\Debug\Word Counter.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\Debug\Word Counter.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\Debug\Word_Counter.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\Debug\Word_Counter.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\Debug\Word Counter.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\Debug\Word Counter.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\Debug\Word Counter.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\Debug\Word Counter.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter and Avg Number of Letters\Word Counter\bin\Debug\Word Counter.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter and Avg Number of Letters\Word Counter\bin\Debug\Word Counter.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter and Avg Number of Letters\Word Counter\bin\Debug\Word Counter.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter and Avg Number of Letters\Word Counter\obj\Debug\Word Counter.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter and Avg Number of Letters\Word Counter\obj\Debug\Word_Counter.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter and Avg Number of Letters\Word Counter\obj\Debug\Word_Counter.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter and Avg Number of Letters\Word Counter\obj\Debug\Word Counter.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter and Avg Number of Letters\Word Counter\obj\Debug\Word Counter.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter and Avg Number of Letters\Word Counter\obj\Debug\Word Counter.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter and Avg Number of Letters\Word Counter\obj\Debug\Word Counter.pdb

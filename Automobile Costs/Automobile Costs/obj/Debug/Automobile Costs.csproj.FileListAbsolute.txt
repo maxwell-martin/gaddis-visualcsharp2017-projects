@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Automobile Costs\Automobile Costs\bin\Debug\Automobile Costs.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Automobile Costs\Automobile Costs\bin\Debug\Automobile Costs.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Automobile Costs\Automobile Costs\bin\Debug\Automobile Costs.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Automobile Costs\Automobile Costs\obj\Debug\Automobile_Costs.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Automobile Costs\Automobile Costs\obj\Debug\Automobile_Costs.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Automobile Costs\Automobile Costs\obj\Debug\Automobile Costs.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Automobile Costs\Automobile Costs\obj\Debug\Automobile Costs.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Automobile Costs\Automobile Costs\obj\Debug\Automobile Costs.pdb

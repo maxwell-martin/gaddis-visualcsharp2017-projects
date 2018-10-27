@@ -1,0 +1,17 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap05\Friend File\Friend File\bin\Debug\Friend File.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap05\Friend File\Friend File\bin\Debug\Friend File.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Friend File\Friend File\bin\Debug\Friend File.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Friend File\Friend File\bin\Debug\Friend File.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Friend File\Friend File\obj\x86\Debug\Friend File.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Friend File\Friend File\obj\x86\Debug\Friend File.pdb

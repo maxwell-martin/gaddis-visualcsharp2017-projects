@@ -1,0 +1,17 @@
+K:\Books\C#\Student Sample Programs\Chap05\Load Event\Load Event\bin\Debug\Load Event.exe
+K:\Books\C#\Student Sample Programs\Chap05\Load Event\Load Event\bin\Debug\Load Event.pdb
+K:\Books\C#\Student Sample Programs\Chap05\Load Event\Load Event\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Student Sample Programs\Chap05\Load Event\Load Event\obj\x86\Debug\Load_Event.Form1.resources
+K:\Books\C#\Student Sample Programs\Chap05\Load Event\Load Event\obj\x86\Debug\Load_Event.Properties.Resources.resources
+K:\Books\C#\Student Sample Programs\Chap05\Load Event\Load Event\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Student Sample Programs\Chap05\Load Event\Load Event\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Student Sample Programs\Chap05\Load Event\Load Event\obj\x86\Debug\Load Event.exe
+K:\Books\C#\Student Sample Programs\Chap05\Load Event\Load Event\obj\x86\Debug\Load Event.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Load Event\Load Event\bin\Debug\Load Event.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Load Event\Load Event\bin\Debug\Load Event.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Load Event\Load Event\obj\x86\Debug\Load_Event.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Load Event\Load Event\obj\x86\Debug\Load_Event.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Load Event\Load Event\obj\x86\Debug\Load Event.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Load Event\Load Event\obj\x86\Debug\Load Event.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Load Event\Load Event\obj\x86\Debug\Load Event.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Load Event\Load Event\obj\x86\Debug\Load Event.pdb

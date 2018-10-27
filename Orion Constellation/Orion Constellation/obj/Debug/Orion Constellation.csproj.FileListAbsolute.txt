@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Orion Constellation\Orion Constellation\bin\Debug\Orion Constellation.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Orion Constellation\Orion Constellation\bin\Debug\Orion Constellation.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Orion Constellation\Orion Constellation\bin\Debug\Orion Constellation.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Orion Constellation\Orion Constellation\obj\Debug\Orion_Constellation.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Orion Constellation\Orion Constellation\obj\Debug\Orion_Constellation.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.pdb

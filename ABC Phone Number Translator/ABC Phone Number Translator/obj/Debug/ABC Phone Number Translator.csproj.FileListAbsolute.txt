@@ -1,0 +1,19 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC Phone Number Translator.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC_Phone_Number_Translator.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC_Phone_Number_Translator.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC Phone Number Translator.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC Phone Number Translator.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\bin\Debug\ABC Phone Number Translator.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\bin\Debug\ABC Phone Number Translator.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\bin\Debug\ABC Phone Number Translator.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC Phone Number Translator.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC Phone Number Translator.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\bin\Debug\ABC Phone Number Translator.exe.config
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC Phone Number Translator.exe
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC Phone Number Translator.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\bin\Debug\ABC Phone Number Translator.exe
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\bin\Debug\ABC Phone Number Translator.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC Phone Number Translator.csprojResolveAssemblyReference.cache
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC_Phone_Number_Translator.Form1.resources
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC_Phone_Number_Translator.Properties.Resources.resources
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ABC Phone Number Translator\ABC Phone Number Translator\obj\Debug\ABC Phone Number Translator.csproj.GenerateResource.Cache

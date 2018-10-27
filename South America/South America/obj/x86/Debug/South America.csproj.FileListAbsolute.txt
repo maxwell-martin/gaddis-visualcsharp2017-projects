@@ -1,0 +1,19 @@
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\bin\Debug\South America.exe
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\bin\Debug\South America.pdb
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South_America.Form1.resources
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.exe
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.pdb
+K:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.exe
+K:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\South America\South America\bin\Debug\South America.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\South America\South America\bin\Debug\South America.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\South America\South America\obj\x86\Debug\South_America.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\South America\South America\obj\x86\Debug\South America.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\South America\South America\obj\x86\Debug\South America.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\South America\South America\obj\x86\Debug\South America.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\South America\South America\obj\x86\Debug\South America.pdb

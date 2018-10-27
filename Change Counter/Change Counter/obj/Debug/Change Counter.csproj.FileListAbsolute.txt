@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change Counter\Change Counter\bin\Debug\Change Counter.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change Counter\Change Counter\bin\Debug\Change Counter.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change Counter\Change Counter\bin\Debug\Change Counter.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change Counter\Change Counter\obj\Debug\Change Counter.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change Counter\Change Counter\obj\Debug\Change_Counter.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change Counter\Change Counter\obj\Debug\Change_Counter.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change Counter\Change Counter\obj\Debug\Change Counter.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change Counter\Change Counter\obj\Debug\Change Counter.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Change Counter\Change Counter\obj\Debug\Change Counter.pdb

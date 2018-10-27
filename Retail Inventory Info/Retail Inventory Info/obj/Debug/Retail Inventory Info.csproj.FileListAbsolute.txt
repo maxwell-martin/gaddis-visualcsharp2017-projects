@@ -1,0 +1,10 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Retail Inventory Info\Retail Inventory Info\bin\Debug\Retail Inventory Info.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Retail Inventory Info\Retail Inventory Info\bin\Debug\Retail Inventory Info.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Retail Inventory Info\Retail Inventory Info\bin\Debug\Retail Inventory Info.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Retail Inventory Info\Retail Inventory Info\obj\Debug\Retail_Inventory_Info.MainForm.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Retail Inventory Info\Retail Inventory Info\obj\Debug\Retail_Inventory_Info.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Retail Inventory Info\Retail Inventory Info\obj\Debug\Retail Inventory Info.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Retail Inventory Info\Retail Inventory Info\obj\Debug\Retail Inventory Info.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Retail Inventory Info\Retail Inventory Info\obj\Debug\Retail Inventory Info.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Retail Inventory Info\Retail Inventory Info\obj\Debug\Retail Inventory Info.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Retail Inventory Info\Retail Inventory Info\obj\Debug\Retail Inventory Info.csprojResolveAssemblyReference.cache

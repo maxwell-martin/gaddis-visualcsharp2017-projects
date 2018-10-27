@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Converter\Distance Converter\bin\Debug\Distance Converter.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Converter\Distance Converter\bin\Debug\Distance Converter.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Converter\Distance Converter\bin\Debug\Distance Converter.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Converter\Distance Converter\obj\Debug\Distance Converter.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Converter\Distance Converter\obj\Debug\Distance_Converter.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Converter\Distance Converter\obj\Debug\Distance_Converter.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Converter\Distance Converter\obj\Debug\Distance Converter.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Converter\Distance Converter\obj\Debug\Distance Converter.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Converter\Distance Converter\obj\Debug\Distance Converter.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance Converter\Distance Converter\obj\Debug\Distance Converter.pdb

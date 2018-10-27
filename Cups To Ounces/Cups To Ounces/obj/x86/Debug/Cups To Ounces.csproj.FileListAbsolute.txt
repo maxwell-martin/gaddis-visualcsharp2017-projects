@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csprojResolveAssemblyReference.cache

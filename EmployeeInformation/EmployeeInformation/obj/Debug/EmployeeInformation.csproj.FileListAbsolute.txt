@@ -1,0 +1,13 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\bin\Debug\Personnel.mdf
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\bin\Debug\Personnel_log.ldf
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.DetailsForm.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.MainForm.resources

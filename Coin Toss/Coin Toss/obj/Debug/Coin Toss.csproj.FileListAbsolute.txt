@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.pdb

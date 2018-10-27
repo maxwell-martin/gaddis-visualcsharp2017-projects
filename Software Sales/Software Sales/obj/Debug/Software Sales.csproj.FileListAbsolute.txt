@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Software Sales\Software Sales\bin\Debug\Software Sales.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Software Sales\Software Sales\bin\Debug\Software Sales.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Software Sales\Software Sales\bin\Debug\Software Sales.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Software Sales\Software Sales\obj\Debug\Software Sales.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Software Sales\Software Sales\obj\Debug\Software_Sales.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Software Sales\Software Sales\obj\Debug\Software_Sales.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Software Sales\Software Sales\obj\Debug\Software Sales.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Software Sales\Software Sales\obj\Debug\Software Sales.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Software Sales\Software Sales\obj\Debug\Software Sales.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Software Sales\Software Sales\obj\Debug\Software Sales.pdb

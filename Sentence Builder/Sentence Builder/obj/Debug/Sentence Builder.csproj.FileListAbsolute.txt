@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sentence Builder\Sentence Builder\bin\Debug\Sentence Builder.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sentence Builder\Sentence Builder\bin\Debug\Sentence Builder.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sentence Builder\Sentence Builder\bin\Debug\Sentence Builder.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sentence Builder\Sentence Builder\obj\Debug\Sentence Builder.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sentence Builder\Sentence Builder\obj\Debug\Sentence_Builder.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sentence Builder\Sentence Builder\obj\Debug\Sentence_Builder.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sentence Builder\Sentence Builder\obj\Debug\Sentence Builder.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sentence Builder\Sentence Builder\obj\Debug\Sentence Builder.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sentence Builder\Sentence Builder\obj\Debug\Sentence Builder.pdb

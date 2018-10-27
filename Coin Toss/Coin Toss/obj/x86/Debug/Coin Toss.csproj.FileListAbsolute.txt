@@ -1,0 +1,8 @@
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap09\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap09\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap09\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap09\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap09\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap09\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap09\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap09\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.pdb

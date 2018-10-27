@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ocean Levels\Ocean Levels\bin\Debug\Ocean Levels.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ocean Levels\Ocean Levels\bin\Debug\Ocean Levels.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ocean Levels\Ocean Levels\bin\Debug\Ocean Levels.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ocean Levels\Ocean Levels\obj\Debug\Ocean Levels.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ocean Levels\Ocean Levels\obj\Debug\Ocean_Levels.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ocean Levels\Ocean Levels\obj\Debug\Ocean_Levels.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ocean Levels\Ocean Levels\obj\Debug\Ocean Levels.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ocean Levels\Ocean Levels\obj\Debug\Ocean Levels.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ocean Levels\Ocean Levels\obj\Debug\Ocean Levels.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ocean Levels\Ocean Levels\obj\Debug\Ocean Levels.pdb

@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Property Tax\Property Tax\bin\Debug\Property Tax.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Property Tax\Property Tax\bin\Debug\Property Tax.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Property Tax\Property Tax\bin\Debug\Property Tax.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Property Tax\Property Tax\obj\Debug\Property Tax.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Property Tax\Property Tax\obj\Debug\Property_Tax.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Property Tax\Property Tax\obj\Debug\Property_Tax.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Property Tax\Property Tax\obj\Debug\Property Tax.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Property Tax\Property Tax\obj\Debug\Property Tax.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Property Tax\Property Tax\obj\Debug\Property Tax.pdb

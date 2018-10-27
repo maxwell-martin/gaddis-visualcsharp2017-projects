@@ -1,0 +1,19 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index\Body Mass Index\obj\Debug\Body_Mass_Index.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index\Body Mass Index\obj\Debug\Body_Mass_Index.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index Enhancement\Body Mass Index\bin\Debug\Body Mass Index.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index Enhancement\Body Mass Index\bin\Debug\Body Mass Index.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index Enhancement\Body Mass Index\bin\Debug\Body Mass Index.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index Enhancement\Body Mass Index\obj\Debug\Body Mass Index.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index Enhancement\Body Mass Index\obj\Debug\Body_Mass_Index.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index Enhancement\Body Mass Index\obj\Debug\Body_Mass_Index.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index Enhancement\Body Mass Index\obj\Debug\Body Mass Index.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index Enhancement\Body Mass Index\obj\Debug\Body Mass Index.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index Enhancement\Body Mass Index\obj\Debug\Body Mass Index.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Body Mass Index Enhancement\Body Mass Index\obj\Debug\Body Mass Index.pdb

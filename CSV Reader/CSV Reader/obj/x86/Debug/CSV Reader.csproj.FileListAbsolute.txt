@@ -1,0 +1,8 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CSV Reader\CSV Reader\bin\Debug\CSV Reader.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CSV Reader\CSV Reader\bin\Debug\CSV Reader.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.pdb

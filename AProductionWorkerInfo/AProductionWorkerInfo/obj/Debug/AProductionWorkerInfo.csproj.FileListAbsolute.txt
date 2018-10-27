@@ -1,0 +1,10 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AProductionWorkerInfo\AProductionWorkerInfo\bin\Debug\AProductionWorkerInfo.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AProductionWorkerInfo\AProductionWorkerInfo\bin\Debug\AProductionWorkerInfo.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AProductionWorkerInfo\AProductionWorkerInfo\bin\Debug\AProductionWorkerInfo.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AProductionWorkerInfo\AProductionWorkerInfo\obj\Debug\AProductionWorkerInfo.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AProductionWorkerInfo\AProductionWorkerInfo\obj\Debug\AProductionWorkerInfo.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AProductionWorkerInfo\AProductionWorkerInfo\obj\Debug\AProductionWorkerInfo.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AProductionWorkerInfo\AProductionWorkerInfo\obj\Debug\AProductionWorkerInfo.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AProductionWorkerInfo\AProductionWorkerInfo\obj\Debug\AProductionWorkerInfo.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AProductionWorkerInfo\AProductionWorkerInfo\obj\Debug\AProductionWorkerInfo.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AProductionWorkerInfo\AProductionWorkerInfo\obj\Debug\AProductionWorkerInfo.pdb

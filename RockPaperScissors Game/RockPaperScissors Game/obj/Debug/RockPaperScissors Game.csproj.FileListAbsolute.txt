@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\RockPaperScissors Game\RockPaperScissors Game\bin\Debug\RockPaperScissors Game.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\RockPaperScissors Game\RockPaperScissors Game\bin\Debug\RockPaperScissors Game.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\RockPaperScissors Game\RockPaperScissors Game\bin\Debug\RockPaperScissors Game.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\RockPaperScissors Game\RockPaperScissors Game\obj\Debug\RockPaperScissors Game.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\RockPaperScissors Game\RockPaperScissors Game\obj\Debug\RockPaperScissors_Game.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\RockPaperScissors Game\RockPaperScissors Game\obj\Debug\RockPaperScissors_Game.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\RockPaperScissors Game\RockPaperScissors Game\obj\Debug\RockPaperScissors Game.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\RockPaperScissors Game\RockPaperScissors Game\obj\Debug\RockPaperScissors Game.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\RockPaperScissors Game\RockPaperScissors Game\obj\Debug\RockPaperScissors Game.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\RockPaperScissors Game\RockPaperScissors Game\obj\Debug\RockPaperScissors Game.pdb

@@ -1,0 +1,20 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap10\CD Account Test\CD Account Test\bin\Debug\CD Account Test.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap10\CD Account Test\CD Account Test\bin\Debug\CD Account Test.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap10\CD Account Test\CD Account Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap10\CD Account Test\CD Account Test\obj\x86\Debug\CD_Account_Test.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap10\CD Account Test\CD Account Test\obj\x86\Debug\CD_Account_Test.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap10\CD Account Test\CD Account Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap10\CD Account Test\CD Account Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap10\CD Account Test\CD Account Test\obj\x86\Debug\CD Account Test.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap10\CD Account Test\CD Account Test\obj\x86\Debug\CD Account Test.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap10\CD Account Test\CD Account Test\obj\x86\Debug\CD Account Test.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap10\CD Account Test\CD Account Test\obj\x86\Debug\CD Account Test.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CD Account Test\CD Account Test\bin\Debug\CD Account Test.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CD Account Test\CD Account Test\bin\Debug\CD Account Test.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CD Account Test\CD Account Test\obj\x86\Debug\CD Account Test.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CD Account Test\CD Account Test\obj\x86\Debug\CD_Account_Test.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CD Account Test\CD Account Test\obj\x86\Debug\CD_Account_Test.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CD Account Test\CD Account Test\obj\x86\Debug\CD Account Test.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CD Account Test\CD Account Test\obj\x86\Debug\CD Account Test.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CD Account Test\CD Account Test\obj\x86\Debug\CD Account Test.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\CD Account Test\CD Account Test\obj\x86\Debug\CD Account Test.pdb

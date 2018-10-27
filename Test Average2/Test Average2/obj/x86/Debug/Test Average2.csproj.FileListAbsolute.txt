@@ -1,0 +1,18 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap07\Test Average2\Test Average2\bin\Debug\Test Average2.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap07\Test Average2\Test Average2\bin\Debug\Test Average2.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap07\Test Average2\Test Average2\obj\x86\Debug\Test Average2.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap07\Test Average2\Test Average2\obj\x86\Debug\Test_Average2.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap07\Test Average2\Test Average2\obj\x86\Debug\Test_Average2.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap07\Test Average2\Test Average2\obj\x86\Debug\Test Average2.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap07\Test Average2\Test Average2\obj\x86\Debug\Test Average2.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap07\Test Average2\Test Average2\obj\x86\Debug\Test Average2.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\PROGRAM FILES\student_sample_programs\Student Sample Programs\Chap07\Test Average2\Test Average2\obj\x86\Debug\Test Average2.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Average2\Test Average2\bin\Debug\Test Average2.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Average2\Test Average2\bin\Debug\Test Average2.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Average2\Test Average2\obj\x86\Debug\Test Average2.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Average2\Test Average2\obj\x86\Debug\Test_Average2.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Average2\Test Average2\obj\x86\Debug\Test_Average2.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Average2\Test Average2\obj\x86\Debug\Test Average2.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Average2\Test Average2\obj\x86\Debug\Test Average2.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Average2\Test Average2\obj\x86\Debug\Test Average2.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Test Average2\Test Average2\obj\x86\Debug\Test Average2.pdb

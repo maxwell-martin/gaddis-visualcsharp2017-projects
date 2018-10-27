@@ -1,0 +1,13 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\bin\Debug\Sentence Capitalizer.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\bin\Debug\Sentence Capitalizer.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\bin\Debug\Sentence Capitalizer.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence Capitalizer.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence_Capitalizer.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence_Capitalizer.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence Capitalizer.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence Capitalizer.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence Capitalizer.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence Capitalizer.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\bin\Debug\Sentence Capitalizer.exe.config
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence Capitalizer.exe
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence Capitalizer.pdb

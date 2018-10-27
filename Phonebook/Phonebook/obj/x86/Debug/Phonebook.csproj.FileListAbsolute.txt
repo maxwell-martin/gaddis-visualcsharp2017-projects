@@ -1,0 +1,9 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.pdb

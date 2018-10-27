@@ -1,0 +1,10 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AShiftSupervisor\AShiftSupervisor\bin\Debug\AShiftSupervisor.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AShiftSupervisor\AShiftSupervisor\bin\Debug\AShiftSupervisor.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AShiftSupervisor\AShiftSupervisor\bin\Debug\AShiftSupervisor.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AShiftSupervisor\AShiftSupervisor\obj\Debug\AShiftSupervisor.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AShiftSupervisor\AShiftSupervisor\obj\Debug\AShiftSupervisor.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AShiftSupervisor\AShiftSupervisor\obj\Debug\AShiftSupervisor.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AShiftSupervisor\AShiftSupervisor\obj\Debug\AShiftSupervisor.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AShiftSupervisor\AShiftSupervisor\obj\Debug\AShiftSupervisor.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AShiftSupervisor\AShiftSupervisor\obj\Debug\AShiftSupervisor.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\AShiftSupervisor\AShiftSupervisor\obj\Debug\AShiftSupervisor.Form1.resources

@@ -1,0 +1,19 @@
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\bin\Debug\Exam Scores.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam Scores.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam_Scores.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam_Scores.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam Scores.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam Scores.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\bin\Debug\Exam Scores.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\bin\Debug\Exam Scores.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\bin\Debug\Exam Scores.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam Scores.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam Scores.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam Scores.exe
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam Scores.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\bin\Debug\Exam Scores.exe
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\bin\Debug\Exam Scores.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam Scores.csprojResolveAssemblyReference.cache
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam_Scores.Form1.resources
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam_Scores.Properties.Resources.resources
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Exam Scores\Exam Scores\obj\Debug\Exam Scores.csproj.GenerateResource.Cache

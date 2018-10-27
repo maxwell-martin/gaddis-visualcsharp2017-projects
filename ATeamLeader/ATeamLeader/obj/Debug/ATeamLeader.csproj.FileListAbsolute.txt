@@ -1,0 +1,10 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ATeamLeader\ATeamLeader\bin\Debug\ATeamLeader.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ATeamLeader\ATeamLeader\bin\Debug\ATeamLeader.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ATeamLeader\ATeamLeader\bin\Debug\ATeamLeader.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ATeamLeader\ATeamLeader\obj\Debug\ATeamLeader.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ATeamLeader\ATeamLeader\obj\Debug\ATeamLeader.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ATeamLeader\ATeamLeader\obj\Debug\ATeamLeader.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ATeamLeader\ATeamLeader\obj\Debug\ATeamLeader.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ATeamLeader\ATeamLeader\obj\Debug\ATeamLeader.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ATeamLeader\ATeamLeader\obj\Debug\ATeamLeader.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\ATeamLeader\ATeamLeader\obj\Debug\ATeamLeader.pdb

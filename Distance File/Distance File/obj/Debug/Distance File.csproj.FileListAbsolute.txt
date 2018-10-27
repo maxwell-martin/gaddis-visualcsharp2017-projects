@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance File\Distance File\obj\Debug\Distance_File.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance File\Distance File\obj\Debug\Distance_File.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance File\Distance File\obj\Debug\Distance File.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance File\Distance File\obj\Debug\Distance File.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance File\Distance File\bin\Debug\Distance File.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance File\Distance File\bin\Debug\Distance File.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance File\Distance File\bin\Debug\Distance File.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance File\Distance File\obj\Debug\Distance File.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Distance File\Distance File\obj\Debug\Distance File.pdb

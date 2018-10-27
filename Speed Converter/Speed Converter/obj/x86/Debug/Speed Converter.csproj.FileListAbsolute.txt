@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Speed Converter\Speed Converter\bin\Debug\Speed Converter.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Speed Converter\Speed Converter\bin\Debug\Speed Converter.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Speed Converter\Speed Converter\obj\x86\Debug\Speed_Converter.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Speed Converter\Speed Converter\obj\x86\Debug\Speed_Converter.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.csprojResolveAssemblyReference.cache

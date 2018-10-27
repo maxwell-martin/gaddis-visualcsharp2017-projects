@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Time Zone\Time Zone\bin\Debug\Time Zone.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Time Zone\Time Zone\bin\Debug\Time Zone.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Time Zone\Time Zone\bin\Debug\Time Zone.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Time Zone\Time Zone\obj\Debug\Time Zone.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Time Zone\Time Zone\obj\Debug\Time_Zone.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Time Zone\Time Zone\obj\Debug\Time_Zone.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Time Zone\Time Zone\obj\Debug\Time Zone.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Time Zone\Time Zone\obj\Debug\Time Zone.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Time Zone\Time Zone\obj\Debug\Time Zone.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Time Zone\Time Zone\obj\Debug\Time Zone.pdb

@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Addition Tutor\Addition Tutor\obj\Debug\Addition_Tutor.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Addition Tutor\Addition Tutor\obj\Debug\Addition_Tutor.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Addition Tutor\Addition Tutor\obj\Debug\Addition Tutor.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Addition Tutor\Addition Tutor\obj\Debug\Addition Tutor.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Addition Tutor\Addition Tutor\bin\Debug\Addition Tutor.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Addition Tutor\Addition Tutor\bin\Debug\Addition Tutor.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Addition Tutor\Addition Tutor\bin\Debug\Addition Tutor.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Addition Tutor\Addition Tutor\obj\Debug\Addition Tutor.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Addition Tutor\Addition Tutor\obj\Debug\Addition Tutor.pdb

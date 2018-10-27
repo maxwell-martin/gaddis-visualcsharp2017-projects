@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Random Number File Writer\Random Number File Writer\obj\Debug\Random_Number_File_Writer.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Random Number File Writer\Random Number File Writer\obj\Debug\Random_Number_File_Writer.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.pdb

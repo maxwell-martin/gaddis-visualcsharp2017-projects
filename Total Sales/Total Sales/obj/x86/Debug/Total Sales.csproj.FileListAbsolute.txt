@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb

@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.pdb

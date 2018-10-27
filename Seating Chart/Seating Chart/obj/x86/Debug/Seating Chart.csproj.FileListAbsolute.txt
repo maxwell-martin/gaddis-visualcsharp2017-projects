@@ -1,0 +1,16 @@
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\bin\Debug\Seating Chart.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\bin\Debug\Seating Chart.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.pdb
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Seating Chart\Seating Chart\bin\Debug\Seating Chart.exe
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Seating Chart\Seating Chart\bin\Debug\Seating Chart.pdb
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Form1.resources
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Properties.Resources.resources
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.csproj.GenerateResource.Cache
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.exe
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.pdb

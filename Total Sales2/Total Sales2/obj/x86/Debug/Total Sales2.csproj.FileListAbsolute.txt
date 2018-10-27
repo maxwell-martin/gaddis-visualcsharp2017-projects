@@ -1,0 +1,16 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\bin\Debug\Total Sales2.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\bin\Debug\Total Sales2.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\obj\x86\Debug\Total_Sales2.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\obj\x86\Debug\Total_Sales2.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\obj\x86\Debug\Total Sales2.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\obj\x86\Debug\Total Sales2.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\obj\x86\Debug\Total Sales2.pdb
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\bin\Debug\Total Sales2.exe
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\bin\Debug\Total Sales2.pdb
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\obj\x86\Debug\Total Sales2.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\obj\x86\Debug\Total_Sales2.Form1.resources
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\obj\x86\Debug\Total_Sales2.Properties.Resources.resources
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\obj\x86\Debug\Total Sales2.csproj.GenerateResource.Cache
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\obj\x86\Debug\Total Sales2.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\obj\x86\Debug\Total Sales2.exe
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Total Sales2\Total Sales2\obj\x86\Debug\Total Sales2.pdb

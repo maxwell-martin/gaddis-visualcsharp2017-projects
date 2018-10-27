@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Birth Date String\Birth Date String\bin\Debug\Birth Date String.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Birth Date String\Birth Date String\bin\Debug\Birth Date String.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Birth Date String\Birth Date String\bin\Debug\Birth Date String.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Birth Date String\Birth Date String\obj\Debug\Birth Date String.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Birth Date String\Birth Date String\obj\Debug\Birth_Date_String.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Birth Date String\Birth Date String\obj\Debug\Birth_Date_String.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Birth Date String\Birth Date String\obj\Debug\Birth Date String.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Birth Date String\Birth Date String\obj\Debug\Birth Date String.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Birth Date String\Birth Date String\obj\Debug\Birth Date String.pdb

@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Population\Population\bin\Debug\Population.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Population\Population\bin\Debug\Population.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Population\Population\bin\Debug\Population.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Population\Population\obj\Debug\Population.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Population\Population\obj\Debug\Population.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Population\Population\obj\Debug\Population.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Population\Population\obj\Debug\Population.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Population\Population\obj\Debug\Population.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Population\Population\obj\Debug\Population.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Population\Population\obj\Debug\Population.pdb

@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Kinetic Energy\Kinetic Energy\bin\Debug\Kinetic Energy.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Kinetic Energy\Kinetic Energy\bin\Debug\Kinetic Energy.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Kinetic Energy\Kinetic Energy\bin\Debug\Kinetic Energy.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic Energy.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic_Energy.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic_Energy.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic Energy.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic Energy.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic Energy.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic Energy.pdb

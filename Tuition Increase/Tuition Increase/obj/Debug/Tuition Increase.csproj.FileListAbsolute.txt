@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tuition Increase\Tuition Increase\bin\Debug\Tuition Increase.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tuition Increase\Tuition Increase\bin\Debug\Tuition Increase.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tuition Increase\Tuition Increase\bin\Debug\Tuition Increase.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tuition Increase\Tuition Increase\obj\Debug\Tuition_Increase.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tuition Increase\Tuition Increase\obj\Debug\Tuition_Increase.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tuition Increase\Tuition Increase\obj\Debug\Tuition Increase.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tuition Increase\Tuition Increase\obj\Debug\Tuition Increase.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tuition Increase\Tuition Increase\obj\Debug\Tuition Increase.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Tuition Increase\Tuition Increase\obj\Debug\Tuition Increase.pdb

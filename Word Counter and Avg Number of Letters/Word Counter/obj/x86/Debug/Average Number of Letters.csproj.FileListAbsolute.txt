@@ -1,0 +1,10 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\bin\Debug\WindowsApplication.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\bin\Debug\WindowsApplication.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\bin\Debug\WindowsApplication.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\x86\Debug\Average Number of Letters.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\x86\Debug\Word_Counter.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\x86\Debug\Average_Number_of_Letters.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\x86\Debug\Average Number of Letters.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\x86\Debug\Average Number of Letters.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\x86\Debug\WindowsApplication.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Word Counter\Word Counter\obj\x86\Debug\WindowsApplication.pdb

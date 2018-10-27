@@ -1,0 +1,9 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Account Simulator\Account Simulator\obj\x86\Debug\Account_Simulator.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Account Simulator\Account Simulator\obj\x86\Debug\Account_Simulator.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Account Simulator\Account Simulator\obj\x86\Debug\Account Simulator.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Account Simulator\Account Simulator\obj\x86\Debug\Account Simulator.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Account Simulator\Account Simulator\bin\Debug\Account Simulator.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Account Simulator\Account Simulator\bin\Debug\Account Simulator.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Account Simulator\Account Simulator\obj\x86\Debug\Account Simulator.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Account Simulator\Account Simulator\obj\x86\Debug\Account Simulator.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Account Simulator\Account Simulator\obj\x86\Debug\Account Simulator.csprojResolveAssemblyReference.cache

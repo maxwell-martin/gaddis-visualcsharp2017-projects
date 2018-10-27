@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Prime Number List\Prime Number List\bin\Debug\Prime Number List.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Prime Number List\Prime Number List\bin\Debug\Prime Number List.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Prime Number List\Prime Number List\bin\Debug\Prime Number List.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Prime Number List\Prime Number List\obj\Debug\Prime_Number_List.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Prime Number List\Prime Number List\obj\Debug\Prime_Number_List.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Prime Number List\Prime Number List\obj\Debug\Prime Number List.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Prime Number List\Prime Number List\obj\Debug\Prime Number List.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Prime Number List\Prime Number List\obj\Debug\Prime Number List.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Prime Number List\Prime Number List\obj\Debug\Prime Number List.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Prime Number List\Prime Number List\obj\Debug\Prime Number List.csprojResolveAssemblyReference.cache

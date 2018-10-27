@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.pdb

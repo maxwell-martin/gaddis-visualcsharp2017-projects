@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\C and F Temperature Converter\C and F Temperature Converter\bin\Debug\C and F Temperature Converter.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\C and F Temperature Converter\C and F Temperature Converter\obj\Debug\C and F Temperature Converter.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\C and F Temperature Converter\C and F Temperature Converter\obj\Debug\C_and_F_Temperature_Converter.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\C and F Temperature Converter\C and F Temperature Converter\obj\Debug\C_and_F_Temperature_Converter.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\C and F Temperature Converter\C and F Temperature Converter\obj\Debug\C and F Temperature Converter.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\C and F Temperature Converter\C and F Temperature Converter\bin\Debug\C and F Temperature Converter.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\C and F Temperature Converter\C and F Temperature Converter\bin\Debug\C and F Temperature Converter.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\C and F Temperature Converter\C and F Temperature Converter\obj\Debug\C and F Temperature Converter.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\C and F Temperature Converter\C and F Temperature Converter\obj\Debug\C and F Temperature Converter.pdb

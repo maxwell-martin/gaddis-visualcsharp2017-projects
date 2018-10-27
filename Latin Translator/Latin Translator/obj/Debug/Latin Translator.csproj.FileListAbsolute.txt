@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Latin Translator\Latin Translator\bin\Debug\Latin Translator.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Latin Translator\Latin Translator\obj\Debug\Latin Translator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Latin Translator\Latin Translator\obj\Debug\Latin Translator.pdb

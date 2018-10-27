@@ -1,0 +1,8 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Color Spectrum\Color Spectrum\bin\Debug\Color Spectrum.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Color Spectrum\Color Spectrum\bin\Debug\Color Spectrum.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Color Spectrum\Color Spectrum\obj\x86\Debug\Color_Spectrum.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Color Spectrum\Color Spectrum\obj\x86\Debug\Color_Spectrum.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Color Spectrum\Color Spectrum\obj\x86\Debug\Color Spectrum.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Color Spectrum\Color Spectrum\obj\x86\Debug\Color Spectrum.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Color Spectrum\Color Spectrum\obj\x86\Debug\Color Spectrum.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Color Spectrum\Color Spectrum\obj\x86\Debug\Color Spectrum.pdb

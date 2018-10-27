@@ -1,0 +1,12 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Product Lookup\Product Lookup\bin\Debug\ProductDB.mdf
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Product Lookup\Product Lookup\bin\Debug\ProductDB_log.ldf
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Product Lookup\Product Lookup\bin\Debug\Product Lookup.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Product Lookup\Product Lookup\bin\Debug\Product Lookup.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Product Lookup\Product Lookup\bin\Debug\Product Lookup.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Product Lookup\Product Lookup\obj\Debug\Product Lookup.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Product Lookup\Product Lookup\obj\Debug\Product_Lookup.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Product Lookup\Product Lookup\obj\Debug\Product_Lookup.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Product Lookup\Product Lookup\obj\Debug\Product Lookup.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Product Lookup\Product Lookup\obj\Debug\Product Lookup.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Product Lookup\Product Lookup\obj\Debug\Product Lookup.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Product Lookup\Product Lookup\obj\Debug\Product Lookup.pdb

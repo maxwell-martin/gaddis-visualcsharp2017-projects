@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.pdb

@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Clickable Number Images\Clickable Number Images\bin\Debug\Clickable Number Images.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Clickable Number Images\Clickable Number Images\bin\Debug\Clickable Number Images.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Clickable Number Images\Clickable Number Images\bin\Debug\Clickable Number Images.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable_Number_Images.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable_Number_Images.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.pdb

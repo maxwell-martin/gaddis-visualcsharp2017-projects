@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pennies for Pay\Pennies for Pay\bin\Debug\Pennies for Pay.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pennies for Pay\Pennies for Pay\bin\Debug\Pennies for Pay.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pennies for Pay\Pennies for Pay\bin\Debug\Pennies for Pay.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies for Pay.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies_for_Pay.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies_for_Pay.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies for Pay.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies for Pay.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies for Pay.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies for Pay.pdb

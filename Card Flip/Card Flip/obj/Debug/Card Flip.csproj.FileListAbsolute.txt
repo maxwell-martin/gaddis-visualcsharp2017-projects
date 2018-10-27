@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Flip\Card Flip\bin\Debug\Card Flip.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Flip\Card Flip\bin\Debug\Card Flip.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Flip\Card Flip\bin\Debug\Card Flip.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Flip\Card Flip\obj\Debug\Card_Flip.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Flip\Card Flip\obj\Debug\Card_Flip.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Flip\Card Flip\obj\Debug\Card Flip.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Flip\Card Flip\obj\Debug\Card Flip.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Card Flip\Card Flip\obj\Debug\Card Flip.pdb

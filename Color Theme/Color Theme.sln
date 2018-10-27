@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Color Theme", "Color Theme\Color Theme.csproj", "{8275FD89-252E-4FCF-8FC8-5D9BEEB4012F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8275FD89-252E-4FCF-8FC8-5D9BEEB4012F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8275FD89-252E-4FCF-8FC8-5D9BEEB4012F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8275FD89-252E-4FCF-8FC8-5D9BEEB4012F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8275FD89-252E-4FCF-8FC8-5D9BEEB4012F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC1D2289-C2C1-44C6-A9CD-4A1356309D47}
+	EndGlobalSection
+EndGlobal

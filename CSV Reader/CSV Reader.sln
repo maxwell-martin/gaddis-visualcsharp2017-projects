@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV Reader", "CSV Reader\CSV Reader.csproj", "{BB4A06B1-404A-4081-B237-33EE908192DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4A06B1-404A-4081-B237-33EE908192DB}.Debug|x86.ActiveCfg = Debug|x86
+		{BB4A06B1-404A-4081-B237-33EE908192DB}.Debug|x86.Build.0 = Debug|x86
+		{BB4A06B1-404A-4081-B237-33EE908192DB}.Release|x86.ActiveCfg = Release|x86
+		{BB4A06B1-404A-4081-B237-33EE908192DB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

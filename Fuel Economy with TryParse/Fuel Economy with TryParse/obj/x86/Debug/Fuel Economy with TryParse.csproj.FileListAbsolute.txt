@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fuel Economy with TryParse\Fuel Economy with TryParse\obj\x86\Debug\Fuel_Economy_with_TryParse.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fuel Economy with TryParse\Fuel Economy with TryParse\obj\x86\Debug\Fuel_Economy_with_TryParse.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fuel Economy with TryParse\Fuel Economy with TryParse\obj\x86\Debug\Fuel Economy with TryParse.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fuel Economy with TryParse\Fuel Economy with TryParse\obj\x86\Debug\Fuel Economy with TryParse.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fuel Economy with TryParse\Fuel Economy with TryParse\bin\Debug\Fuel Economy with TryParse.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fuel Economy with TryParse\Fuel Economy with TryParse\bin\Debug\Fuel Economy with TryParse.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fuel Economy with TryParse\Fuel Economy with TryParse\obj\x86\Debug\Fuel Economy with TryParse.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Fuel Economy with TryParse\Fuel Economy with TryParse\obj\x86\Debug\Fuel Economy with TryParse.pdb

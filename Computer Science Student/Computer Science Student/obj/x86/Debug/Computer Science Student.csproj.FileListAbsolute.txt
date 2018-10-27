@@ -1,0 +1,9 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Computer Science Student\Computer Science Student\bin\Debug\Computer Science Student.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Computer Science Student\Computer Science Student\bin\Debug\Computer Science Student.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer_Science_Student.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer_Science_Student.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer Science Student.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer Science Student.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer Science Student.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer Science Student.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer Science Student.csprojResolveAssemblyReference.cache

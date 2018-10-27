@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail Price Calculator.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail_Price_Calculator.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail_Price_Calculator.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail Price Calculator.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail Price Calculator.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail Price Calculator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail Price Calculator.pdb

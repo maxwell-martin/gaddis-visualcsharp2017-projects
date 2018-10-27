@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass_and_Weight.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass_and_Weight.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.pdb

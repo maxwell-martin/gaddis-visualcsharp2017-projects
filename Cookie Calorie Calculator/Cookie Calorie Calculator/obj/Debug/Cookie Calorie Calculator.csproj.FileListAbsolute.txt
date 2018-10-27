@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\bin\Debug\Cookie Calorie Calculator.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\Debug\Cookie_Calorie_Calculator.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\Debug\Cookie_Calorie_Calculator.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\Debug\Cookie Calorie Calculator.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\bin\Debug\Cookie Calorie Calculator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\bin\Debug\Cookie Calorie Calculator.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\Debug\Cookie Calorie Calculator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\Debug\Cookie Calorie Calculator.pdb

@@ -1,0 +1,10 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\World Series Champions\World Series Champions\bin\Debug\World Series Champions.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\World Series Champions\World Series Champions\bin\Debug\World Series Champions.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\World Series Champions\World Series Champions\bin\Debug\World Series Champions.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\World Series Champions\World Series Champions\obj\Debug\World Series Champions.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\World Series Champions\World Series Champions\obj\Debug\World_Series_Champions.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\World Series Champions\World Series Champions\obj\Debug\World_Series_Champions.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\World Series Champions\World Series Champions\obj\Debug\World Series Champions.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\World Series Champions\World Series Champions\obj\Debug\World Series Champions.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\World Series Champions\World Series Champions\obj\Debug\World Series Champions.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\World Series Champions\World Series Champions\obj\Debug\World Series Champions.pdb

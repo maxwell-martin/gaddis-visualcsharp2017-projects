@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.pdb

@@ -1,0 +1,8 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joke and Punch Line\Joke and Punch Line\bin\Debug\Joke and Punch Line.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joke and Punch Line\Joke and Punch Line\bin\Debug\Joke and Punch Line.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joke and Punch Line\Joke and Punch Line\bin\Debug\Joke and Punch Line.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke_and_Punch_Line.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke_and_Punch_Line.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.pdb

@@ -1,0 +1,9 @@
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sales Analysis\Sales Analysis\bin\Debug\Sales Analysis.exe
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sales Analysis\Sales Analysis\bin\Debug\Sales Analysis.pdb
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sales Analysis\Sales Analysis\obj\x86\Debug\Sales_Analysis.Form1.resources
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sales Analysis\Sales Analysis\obj\x86\Debug\Sales_Analysis.Properties.Resources.resources
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sales Analysis\Sales Analysis\obj\x86\Debug\Sales Analysis.csproj.GenerateResource.Cache
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sales Analysis\Sales Analysis\obj\x86\Debug\Sales Analysis.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sales Analysis\Sales Analysis\obj\x86\Debug\Sales Analysis.exe
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sales Analysis\Sales Analysis\obj\x86\Debug\Sales Analysis.pdb
+C:\Users\maxma\Desktop\Flashdrive Backup\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Sales Analysis\Sales Analysis\obj\x86\Debug\Sales Analysis.csprojResolveAssemblyReference.cache

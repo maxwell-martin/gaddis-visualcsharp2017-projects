@@ -1,0 +1,10 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Charge Account Validation\Charge Account Validation\bin\Debug\Charge Account Validation.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Charge Account Validation\Charge Account Validation\bin\Debug\Charge Account Validation.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Charge Account Validation\Charge Account Validation\bin\Debug\Charge Account Validation.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Charge Account Validation\Charge Account Validation\obj\Debug\Charge Account Validation.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Charge Account Validation\Charge Account Validation\obj\Debug\Charge_Account_Validation.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Charge Account Validation\Charge Account Validation\obj\Debug\Charge_Account_Validation.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Charge Account Validation\Charge Account Validation\obj\Debug\Charge Account Validation.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Charge Account Validation\Charge Account Validation\obj\Debug\Charge Account Validation.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Charge Account Validation\Charge Account Validation\obj\Debug\Charge Account Validation.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Charge Account Validation\Charge Account Validation\obj\Debug\Charge Account Validation.pdb

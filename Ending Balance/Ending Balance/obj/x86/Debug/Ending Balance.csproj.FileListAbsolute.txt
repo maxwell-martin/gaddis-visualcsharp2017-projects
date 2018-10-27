@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ending Balance\Ending Balance\bin\Debug\Ending Balance.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ending Balance\Ending Balance\bin\Debug\Ending Balance.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ending Balance\Ending Balance\obj\x86\Debug\Ending_Balance.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ending Balance\Ending Balance\obj\x86\Debug\Ending_Balance.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csprojResolveAssemblyReference.cache

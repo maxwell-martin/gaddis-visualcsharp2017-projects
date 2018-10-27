@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Factorials_Ch5_12\Factorials_Ch5_12\bin\Debug\Factorials_Ch5_12.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Factorials_Ch5_12\Factorials_Ch5_12\bin\Debug\Factorials_Ch5_12.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Factorials_Ch5_12\Factorials_Ch5_12\bin\Debug\Factorials_Ch5_12.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Factorials_Ch5_12\Factorials_Ch5_12\obj\Debug\Factorials_Ch5_12.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Factorials_Ch5_12\Factorials_Ch5_12\obj\Debug\Factorials_Ch5_12.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Factorials_Ch5_12\Factorials_Ch5_12\obj\Debug\Factorials_Ch5_12.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Factorials_Ch5_12\Factorials_Ch5_12\obj\Debug\Factorials_Ch5_12.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Factorials_Ch5_12\Factorials_Ch5_12\obj\Debug\Factorials_Ch5_12.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Factorials_Ch5_12\Factorials_Ch5_12\obj\Debug\Factorials_Ch5_12.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Factorials_Ch5_12\Factorials_Ch5_12\obj\Debug\Factorials_Ch5_12.pdb

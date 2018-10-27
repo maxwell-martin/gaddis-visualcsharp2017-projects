@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hospital Charges\Hospital Charges\obj\Debug\Hospital_Charges.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hospital Charges\Hospital Charges\obj\Debug\Hospital_Charges.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.pdb

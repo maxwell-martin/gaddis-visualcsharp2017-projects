@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Flags\Flags\bin\Debug\Flags.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Flags\Flags\bin\Debug\Flags.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Flags\Flags\bin\Debug\Flags.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Flags\Flags\obj\Debug\Flags.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Flags\Flags\obj\Debug\Flags.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Flags\Flags\obj\Debug\Flags.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Flags\Flags\obj\Debug\Flags.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Flags\Flags\obj\Debug\Flags.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Flags\Flags\obj\Debug\Flags.pdb
